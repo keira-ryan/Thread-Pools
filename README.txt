@@ -1,7 +1,4 @@
 Keira Ryan
-2431681
-keiryan@chapman.edu
-CPSC 380
 Assignment 4 - Thread Pools
 
 In this program, the client.c file uses the thread pool API to submit tasks to a work queue 
